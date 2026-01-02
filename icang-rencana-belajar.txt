@@ -5,6 +5,9 @@ RENCANA BELAJAR ICANG
  * Perbedaan linux dan windows
  * Distro linux
 - Dasar terminal
+- Menejemen file & direktori 
+ * membuat => touch & mkdir
+ * menyalin => cp
 - Belajar administrasi linux
 - Belajar sistem linux dasar
 - Belajar GitHub 
